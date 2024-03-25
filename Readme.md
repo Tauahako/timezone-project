@@ -6,7 +6,7 @@
     * Technologies
     * Key Features
         * Web Application (SPA)
-    * Lauch Application
+    * Launch Application
 
 ### About
 ***
